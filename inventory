@@ -1,3 +1,4 @@
--p 2222 adil@127.0.0.1
--p 2223 adil@127.0.0.1
--p 2224 adil@127.0.0.1
+[vms]
+vm1 ansible_host=192.168.56.105 ansible_user=vm1
+vm2 ansible_host=192.168.56.108 ansible_user=vm2
+vm3 ansible_host=192.168.56.107 ansible_user=vm3
